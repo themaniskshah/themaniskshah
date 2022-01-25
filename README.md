@@ -6,7 +6,7 @@
 ## I like
 
 - [Travel](https://twitter.com/themaniskshah/status/1208503560733896706) to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
-- Figure out best&worst practices (by asking "Why?")
+- Figure out best&worst practices
 - Open-source, Terraform and AWS
 
 ### Connect with me
