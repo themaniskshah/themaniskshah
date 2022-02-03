@@ -2,9 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/themaniskshah?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthemaniskshah&screen_name=themaniskshah)
 
-
-## I like
-
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - [Travel](https://twitter.com/themaniskshah/status/1208503560733896706) to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
 - Figure out best&worst practices
